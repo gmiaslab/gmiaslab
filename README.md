@@ -7,9 +7,9 @@
     - Scientific Community Resources
         - Creating models necessitates robust omics datasets, particularly for time series analyses and network inference. We are creating multiple such sets available to the community.
 - 📫 How to reach us:
--  G. Mias Lab
-   - 775 Woodlot Drive, Rm 1319, Institute for Quantitative Health Sciences and Engineering, East Lansing, MI, 48824
-   - gmiaslab@gmail.com
+    -  G. Mias Lab at Michigan State University
+       - 775 Woodlot Drive, Rm 1319, Institute for Quantitative Health Sciences and Engineering, East Lansing, MI, 48824
+       - gmiaslab@gmail.com
    - twitter:
        - https://twitter.com/gmiaslab
        - https://twitter.com/georgemias 
